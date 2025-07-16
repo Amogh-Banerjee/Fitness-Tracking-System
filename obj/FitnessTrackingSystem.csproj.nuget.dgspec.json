@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rud\\Fitness-Tracking-System\\FitnessTrackingSystem.csproj": {}
+    "D:\\Projects\\Learn\\Fitness-Tracking-System\\FitnessTrackingSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rud\\Fitness-Tracking-System\\FitnessTrackingSystem.csproj": {
+    "D:\\Projects\\Learn\\Fitness-Tracking-System\\FitnessTrackingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rud\\Fitness-Tracking-System\\FitnessTrackingSystem.csproj",
+        "projectUniqueName": "D:\\Projects\\Learn\\Fitness-Tracking-System\\FitnessTrackingSystem.csproj",
         "projectName": "FitnessTrackingSystem",
-        "projectPath": "C:\\Users\\Rud\\Fitness-Tracking-System\\FitnessTrackingSystem.csproj",
-        "packagesPath": "C:\\Users\\Rud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rud\\Fitness-Tracking-System\\obj\\",
+        "projectPath": "D:\\Projects\\Learn\\Fitness-Tracking-System\\FitnessTrackingSystem.csproj",
+        "packagesPath": "C:\\Users\\prane\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Learn\\Fitness-Tracking-System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Rud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\prane\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
