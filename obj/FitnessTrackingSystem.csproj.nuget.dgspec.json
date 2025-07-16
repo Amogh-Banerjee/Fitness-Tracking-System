@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Wipro\\Milestone Assessment 3\\FitnessTrackingSystem\\FitnessTrackingSystem.csproj": {}
+    "C:\\Users\\Rud\\Fitness-Tracking-System\\FitnessTrackingSystem.csproj": {}
   },
   "projects": {
-    "D:\\Wipro\\Milestone Assessment 3\\FitnessTrackingSystem\\FitnessTrackingSystem.csproj": {
+    "C:\\Users\\Rud\\Fitness-Tracking-System\\FitnessTrackingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Wipro\\Milestone Assessment 3\\FitnessTrackingSystem\\FitnessTrackingSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Rud\\Fitness-Tracking-System\\FitnessTrackingSystem.csproj",
         "projectName": "FitnessTrackingSystem",
-        "projectPath": "D:\\Wipro\\Milestone Assessment 3\\FitnessTrackingSystem\\FitnessTrackingSystem.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\Wipro\\Milestone Assessment 3\\FitnessTrackingSystem\\obj\\",
+        "projectPath": "C:\\Users\\Rud\\Fitness-Tracking-System\\FitnessTrackingSystem.csproj",
+        "packagesPath": "C:\\Users\\Rud\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rud\\Fitness-Tracking-System\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Rud\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
